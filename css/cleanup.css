@@ -1,1 +1,5 @@
 /* write your override styles here */
+body {
+  background: black url(../images/sketch.jpg) no-repeat center;
+  background-size: cover;
+}
